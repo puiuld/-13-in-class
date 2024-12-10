@@ -1,0 +1,7 @@
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\313\TravelAgency\TravelAgency\-13-in-class\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
